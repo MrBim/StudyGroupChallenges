@@ -24,9 +24,11 @@ These challenges are ment to show your skills in development without use of big 
 -  This means each checkbox is individual styled and function independently (Check one the others don't check)
 
 ## The Shared Rules
- - You are **NOT** allowed to add any libraries, though every jedi/sith has it's tricks so we have included jquery for you to use.
+ - You are **NOT** allowed to add any libraries, though every jedi/sith has it's tricks so we have included jquery for you to use. this includes font awesome.
   - You are **NOT** allowed to touch anything inside the `<body>` of `index.html`
-  -  You are allowed to use SASS / SCSS
+  - You are allowed to use SASS / SCSS
+  - It only needs to look good on your browser of choice, please state what browser when you share.
+  - bonus points for covering more browsers.
 
 ## Timeframe
 This must be commited by **04/05/2018** (May 4th be with you)
