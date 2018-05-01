@@ -1,0 +1,17 @@
+ .challenges{
+     width: 250px;
+     margin: 50px auto;
+     border: 3px solid #505050;
+     border-radius: 20px;
+     padding: 20px 25px 35px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ h1{
+     margin: 0px 0px 20px;
+     color: #505050;
+ }
+
+ h2{
+     color: #505050;
+ }
