@@ -29,6 +29,7 @@ These challenges are ment to show your skills in development without use of big 
   - You are allowed to use SASS / SCSS
   - It only needs to look good in your chosen browser, please state your browser when you share.
   - Bonus points for more browsers
+  - Checkboxes must be minumum 22px x 22px as this is minimum recomended size for touch .devices
 
 ## Timeframe
 This must be commited by **04/05/2018** (May 4th be with you)
